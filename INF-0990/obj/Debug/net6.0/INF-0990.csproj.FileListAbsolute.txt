@@ -1,0 +1,30 @@
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.AssemblyInfo.cs
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/bin/Debug/net6.0/INF-0990.exe
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/bin/Debug/net6.0/INF-0990.deps.json
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/bin/Debug/net6.0/INF-0990.runtimeconfig.json
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/bin/Debug/net6.0/INF-0990.dll
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/bin/Debug/net6.0/INF-0990.pdb
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.dll
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/refint/INF-0990.dll
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.pdb
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/INF-0990.genruntimeconfig.cache
+C:/Users/Admin/Desktop/Projeto Final/INF-0990/obj/Debug/net6.0/ref/INF-0990.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/INF-0990
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/INF-0990.deps.json
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/INF-0990.runtimeconfig.json
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/INF-0990.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/ref/INF-0990.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/bin/Debug/net6.0/INF-0990.pdb
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.csproj.AssemblyReference.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.GeneratedMSBuildEditorConfig.editorconfig
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.AssemblyInfoInputs.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.AssemblyInfo.cs
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.csproj.CoreCompileInputs.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/ref/INF-0990.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.pdb
+/home/ic-unicamp/leolellisr/PED/Csharp/INF0990---Projeto-Final/INF0990---Projeto-Final-main/INF-0990/obj/Debug/net6.0/INF-0990.genruntimeconfig.cache

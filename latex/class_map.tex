@@ -1,0 +1,48 @@
+\hypertarget{class_map}{}\doxysection{Map Class Reference}
+\label{class_map}\index{Map@{Map}}
+
+
+Classe reponsável pelo Mapa.   
+
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_map_a2a52033bc07a7ccc160285a93484513e}\label{class_map_a2a52033bc07a7ccc160285a93484513e}} 
+{\bfseries Map} (int w=10, int h=10, int level=1)
+\begin{DoxyCompactList}\small\item\em Classe reponsável por gerar o mapa com tamanho 10x10. Posteriormente conforme avança, incrementa +1 ao tamanho do mapa, até o limite 30x30.  \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_map_a6ff9fe11efd0d163cbf10277a29bb6a3}\label{class_map_a6ff9fe11efd0d163cbf10277a29bb6a3}} 
+void {\bfseries Insert} (\mbox{\hyperlink{class_item_map}{Item\+Map}} Item, int x, int y)
+\begin{DoxyCompactList}\small\item\em Responsável por posicionar itens no mapa dentro da matriz.  \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_map_a6559330c824d7967c0c6eb797583e4b9}\label{class_map_a6559330c824d7967c0c6eb797583e4b9}} 
+void {\bfseries Update} (int x\+\_\+old, int y\+\_\+old, int x, int y)
+\begin{DoxyCompactList}\small\item\em Responsável por atualizar o Status do mapa.  \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_map_a503c1188981bd56583b4036ef70c67aa}\label{class_map_a503c1188981bd56583b4036ef70c67aa}} 
+List$<$ \mbox{\hyperlink{class_jewel}{Jewel}} $>$ {\bfseries Get\+Jewels} (int x, int y)
+\begin{DoxyCompactList}\small\item\em Responsável por atualizar a quantidade de Jóias coletadas.  \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_map_a58b5d5bdae42092eec6502666412ad12}\label{class_map_a58b5d5bdae42092eec6502666412ad12}} 
+\mbox{\hyperlink{interface_rechargeable}{Rechargeable}}? {\bfseries Get\+Rechargeable} (int x, int y)
+\begin{DoxyCompactList}\small\item\em Responsável por incrementar a energia do robo conforme coletados itens válidos.  \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_map_aff8e2d6feab4dea63ab4537c0898b303}\label{class_map_aff8e2d6feab4dea63ab4537c0898b303}} 
+void {\bfseries Print} ()
+\item 
+\mbox{\Hypertarget{class_map_a2107d47822831fb927575581bc107f85}\label{class_map_a2107d47822831fb927575581bc107f85}} 
+bool {\bfseries Is\+Done} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_map_a719722cf9ff9a60065ba3189a64f121b}\label{class_map_a719722cf9ff9a60065ba3189a64f121b}} 
+int {\bfseries h}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+\mbox{\Hypertarget{class_map_a63b4597ab80572da3ea5def454b4eced}\label{class_map_a63b4597ab80572da3ea5def454b4eced}} 
+int {\bfseries w}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Classe reponsável pelo Mapa.  
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Map.\+cs\end{DoxyCompactItemize}
